@@ -24,6 +24,8 @@ def main():
                 course = input("课程名：")
                 grade = float(input("成绩："))
                 student.add_grade(course, grade)
+                manager.save_to_file()  # 保存到文件
+                print(f"已为 {student.name} 添加成绩：{course} - {grade}")  
             else:
                 print("未找到该学生")
 

@@ -1,0 +1,75 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 虚拟环境
+env/
+venv/
+ENV/
+.venv/
+
+# VS Code 配置
+.vscode/
+
+# PyCharm 配置
+.idea/
+
+# 本地环境变量文件
+.env
+*.env
+
+# 安装包输出
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+
+# pip 缓存
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pytest 缓存
+.cache/
+
+# MyPy 缓存
+.mypy_cache/
+
+# pyre 类型检查
+.pyre/
+
+# profiling 数据
+.prof
+
+# 覆盖率报告
+htmlcov/
+coverage.xml
+*.cover
+*.py,cover
+
+# 单元测试结果
+nosetests.xml
+test-results.xml
+junit.xml
+
+# 数据库和临时文件
+*.sqlite3
+*.db
+*.log
+
+# 系统文件
+.DS_Store
+Thumbs.db
