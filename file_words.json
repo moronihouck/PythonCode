@@ -1,0 +1,30 @@
+{
+  "totoal_words": 644,
+  "Top 5": [
+    {
+      "word": "the",
+      "count": 37,
+      "percentage": "5.75%"
+    },
+    {
+      "word": "and",
+      "count": 27,
+      "percentage": "4.19%"
+    },
+    {
+      "word": "in",
+      "count": 18,
+      "percentage": "2.80%"
+    },
+    {
+      "word": "to",
+      "count": 16,
+      "percentage": "2.48%"
+    },
+    {
+      "word": "a",
+      "count": 15,
+      "percentage": "2.33%"
+    }
+  ]
+}
